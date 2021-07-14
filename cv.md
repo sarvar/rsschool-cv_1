@@ -83,4 +83,4 @@ I like challenges and solving technical problems. One of my favourite pastimes i
 ***Online Rasta - [www.tokyoscale.com](www.tokyoscale.com) - Tashkent, Uzbekistan, February 2010 – January 2014***
 ##### *Responsibilities* #####
 - Create cross-browser, fully functional web pages using HTML and CSS while strictly adhering to accessibility and W3C web standards 
-- Write clean, well organized and fully documented code
+- Collaborate with developers, product managers, designers, web publishers, producers and back-end engineers to support revenue operations and meet project deadlines
