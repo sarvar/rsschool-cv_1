@@ -52,6 +52,7 @@ I like challenges and solving technical problems. One of my favourite pastimes i
 ### Portfolio ###
 - [xabardor.uz](https://xabardor.uz)
 - [damda.uz](https://damda.uz) 
+- [nodir.design](https://nodir.design)
 - (https://github.com/sarvar/repost)
 - (https://github.com/sarvar/devops)
 
